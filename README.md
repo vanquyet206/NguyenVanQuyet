@@ -2,5 +2,5 @@ ho ten: nguyen van Quyet
 lop khoa: cntt3-K65
 msv: 241230830
  
-![alt](images/bai.png)
+![alt](Download/bai.png)
 
